@@ -37,19 +37,19 @@ Standard AI coding assistants suffer from severe amnesia across sessions:
 
 ### For Claude Code
 ```bash
-git clone https://github.com/webuildforgood/skill-reflective-diary.git ~/.claude/skills/reflective-ai-diary
+git clone https://github.com/We-Build-For-Good/skill-reflective-diary.git ~/.claude/skills/reflective-ai-diary
 ```
 
 ### For Cursor
 ```bash
 mkdir -p .cursor/skills
-git clone https://github.com/webuildforgood/skill-reflective-diary.git .cursor/skills/reflective-ai-diary
+git clone https://github.com/We-Build-For-Good/skill-reflective-diary.git .cursor/skills/reflective-ai-diary
 ```
 
 ### For Antigravity / Open Agent Skills
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/webuildforgood/skill-reflective-diary.git .agents/skills/reflective-ai-diary
+git clone https://github.com/We-Build-For-Good/skill-reflective-diary.git .agents/skills/reflective-ai-diary
 ```
 
 ---
