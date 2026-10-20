@@ -20,7 +20,7 @@ Standard AI coding assistants suffer from severe amnesia across sessions:
 * They oscillate between being uncomfortably passive (asking permission for trivial steps) and overly presumptuous (refactoring code they were not asked to touch).
 * They lack a mechanism to examine *why* their reasoning failed.
 
-`reflective-ai-diary` turns your AI collaborator from a forgetful autocomplete engine into a thoughtful, self-correcting partner.
+`reflective-ai-diary` gives your AI collaborator a written record to learn from between sessions, so the same mistakes are less likely to repeat.
 
 ---
 

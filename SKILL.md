@@ -4,7 +4,7 @@ description: A metacognitive operating protocol where an autonomous AI maintains
 license: MIT
 metadata:
   author: We Build for Good
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # The Reflective AI Diary: A Protocol for Continuous Calibration
@@ -87,4 +87,4 @@ When authoring or updating the diary (typically stored at `COORDINATOR-DIARY.md`
 
 1. **Review Before Shifting**: When an AI begins a new work session, it reads the last 2 to 3 diary entries to calibrate tone, avoid recent mistakes, and resume with deep context.
 2. **One Breakthrough Per Entry**: Keep entries focused on one real operational insight rather than summarizing daily trivia.
-3. **Encourage Intellectual Humility**: Reward the AI for spotting where it was wrong. An AI that candidly diagnoses its own failures is infinitely more valuable than an AI that pretends every output was perfect.
+3. **Encourage Intellectual Humility**: Reward the AI for spotting where it was wrong. An AI that candidly diagnoses its own failures is far more useful than one that pretends every output was perfect.
